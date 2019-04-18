@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598201146451",
+    "firebase_url": "https://aichat-fb439.firebaseio.com",
+    "project_id": "aichat-fb439",
+    "storage_bucket": "aichat-fb439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598201146451:android:c51308b0dbd9a764",
+        "android_client_info": {
+          "package_name": "com.example.karthik.simsimichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598201146451-dbi3ssndctoucfg5ekgmbff70cuo2mk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karthik.simsimichat",
+            "certificate_hash": "208b31e62afe99e7418972aa23e48ae37e82061a"
+          }
+        },
+        {
+          "client_id": "598201146451-g583a746npbuecj9vmluu36931tfh361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1Z-zkwSUuiFk7_7lUvk_grKv-NJa1HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598201146451-g583a746npbuecj9vmluu36931tfh361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
